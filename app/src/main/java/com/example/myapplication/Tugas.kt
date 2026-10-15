@@ -24,4 +24,8 @@ import androidx.compose.runtime.setValue
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.res.dimensionResource
 
+@Composable
+fun FormDataDiri(modifier: Modifier = Modifier) {
+
+}
 
